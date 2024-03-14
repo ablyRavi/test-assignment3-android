@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlarmManagerDemo</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">Submit</string>
+    <string name="demo_value">e.g. 5</string>
+    <string name="demo_name">e.g. Meeting with Team</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+
+</resources>
