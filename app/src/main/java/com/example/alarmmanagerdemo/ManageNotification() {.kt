@@ -61,6 +61,7 @@ class ManageNotification(val context: Context) {
                     .setSmallIcon(R.drawable.bell_icon)
                     .setLargeIcon(BitmapFactory.decodeResource(context.resources, R.drawable.bell_icon))
                     .setContentTitle(title)
+                    ///commit
                     .setContentText(body)
                     .setPriority(NotificationCompat.PRIORITY_HIGH)
                     // Set the intent that fires when the user taps the notification.
